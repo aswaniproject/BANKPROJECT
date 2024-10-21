@@ -1,5 +1,6 @@
 # BANKPROJECT
 Python mini project
+
 This mini project is a simple banking system using python. In this project user is allowed to Login to their account throught password which is already set, Deposit and withdraw money, Checking the balance, Add interest to the balance, Show transaction history and changing password.
 
 #Features

@@ -5,13 +5,13 @@ This mini project is a simple banking system using python. In this project user 
 
 #Features
 Key features included are :
-Account Login : Secure login using a password.
-Amount Deposit : Deposit money into your account.
-Amount withdrawal : Withdraw money if you have enough balance.
-Balance check : View your current account balance.
-Interest Calculation : Add interest to your account based on a specified rate.
-Change Password : Change your account password after confirming your old password.
-Transaction History : Review all deposits, withdrawals, and interest added to the account.
+1. Account Login : Secure login using a password.
+2. Amount Deposit : Deposit money into your account.
+3. Amount withdrawal : Withdraw money if you have enough balance.
+4. Balance check : View your current account balance.
+5. Interest Calculation : Add interest to your account based on a specified rate.
+6. Change Password : Change your account password after confirming your old password.
+7. Transaction History : Review all deposits, withdrawals, and interest added to the account.
 
 #Functions used
 
